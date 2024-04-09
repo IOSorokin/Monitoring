@@ -44,6 +44,8 @@ node_memory_MemAvailable_bytes
 
     Создайте для каждой Dashboard подходящее правило alert — можно обратиться к первой лекции в блоке «Мониторинг».
     В качестве решения задания приведите скриншот вашей итоговой Dashboard.
+   ![изображение](https://github.com/IOSorokin/Monitoring/assets/148979909/b9e7c68d-c95b-43c3-b6bc-002b5ad78ada)
+
 
 # Задание 4
 
