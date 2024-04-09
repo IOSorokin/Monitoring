@@ -52,3 +52,6 @@ node_memory_MemAvailable_bytes
     Сохраните ваш Dashboard.Для этого перейдите в настройки Dashboard, выберите в боковом меню «JSON MODEL». Далее скопируйте отображаемое json-содержимое в отдельный файл и сохраните его.
     В качестве решения задания приведите листинг этого файла.
 
+    Файл по пути
+https://github.com/IOSorokin/Monitoring/blob/main/Lesson%2002/dashboard.json
+
