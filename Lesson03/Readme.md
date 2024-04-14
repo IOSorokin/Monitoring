@@ -23,6 +23,18 @@
 
 Перейдите в меню создания index-patterns в kibana и создайте несколько index-patterns из имеющихся.
 
+![изображение](https://github.com/IOSorokin/Monitoring/assets/148979909/c727f251-f7a7-44f7-a8aa-457dcd49835c)
+
+
+
+![изображение](https://github.com/IOSorokin/Monitoring/assets/148979909/bde9447a-9d7b-4c01-acb7-cda3e967f99b)
+
+
 Перейдите в меню просмотра логов в kibana (Discover) и самостоятельно изучите, как отображаются логи и как производить поиск по логам.
 
-В манифесте директории help также приведенно dummy-приложение, которое генерирует рандомные события в stdout-контейнера. Эти логи должны порождать индекс logstash-* в elasticsearch. Если этого индекса нет — воспользуйтесь советами и источниками из раздела «Дополнительные ссылки» этого задания.
+![изображение](https://github.com/IOSorokin/Monitoring/assets/148979909/c21c7840-c6a7-48be-9fd0-daddbd268374)
+
+
+Поиск
+
+![изображение](https://github.com/IOSorokin/Monitoring/assets/148979909/65ae5b35-65ae-4a13-8b9e-88de4498be85)
